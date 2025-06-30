@@ -26,10 +26,3 @@ A complete fullstack responsive MERN (MongoDB, Express, React, Node.js) social m
 
 - Node.js (v14+)
 - MongoDB
-
-### Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/fullstack-social-media-app.git
-   cd fullstack-social-media-app
